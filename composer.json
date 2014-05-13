@@ -1,0 +1,21 @@
+{
+    "name": "ukko/vk",
+    "description": "vk.com api",
+    "keywords": ["vk", "api", "vkontakte", "vk.com"],
+    "authors": [
+        {
+            "name": "Max Kamashev",
+            "email": "max.kamashev@gmail.com"
+        },
+        {
+            "name":  "Vlad Pronsky",
+            "email": "vladkens@yandex.ru"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "VK": "src/" }
+    }
+}
